@@ -1,3 +1,4 @@
+compiled/
 dist
 dist-*
 cabal-dev
